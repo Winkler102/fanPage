@@ -1,0 +1,12 @@
+body{
+    background-color: skyblue;
+    color: maroon;
+}
+
+td{
+    vertical-align: top;
+}
+
+h2 ul{
+    float: left;
+}
