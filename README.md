@@ -1,5 +1,5 @@
 ## Fan Page
-<a href="https://winkler102.github.io/fanpage/">Website Link</a>
+<a href="https://winkler102.github.io/fanPage/">Website Link</a>
 
 ## Description:
 
